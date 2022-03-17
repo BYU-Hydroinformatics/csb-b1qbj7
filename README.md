@@ -2,7 +2,7 @@
 
 Created with CodeSandbox
 
-This repository is for an OpenLayers map of the USGS Stream Gauge Network. 
+This repository is the deployed version of an OpenLayers map of the USGS Stream Gauge Network. 
 This map is used in Notebook 4 of the NWM Notebooks created for the HydroLearn course on the NWM.
 The map uses the following web service to display the gauges: https://mapservices.weather.noaa.gov/static/rest/services/nws_reference_maps/USGS_Stream_Gauges/MapServer
 The service is self described as follows:
